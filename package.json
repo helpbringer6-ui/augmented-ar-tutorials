@@ -1,0 +1,18 @@
+{
+  "name": "augmented-ar-tutorials",
+  "version": "1.0.0",
+  "description": "Ein Toolkit für Augmented Reality Tutorials",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhrBenutzername/augmented-ar-tutorials.git"
+  },
+  "keywords": ["AR", "Augmented Reality", "Tutorials"],
+  "author": "Ihr Name",
+  "license": "MIT",
+  "dependencies": {} 
+}
