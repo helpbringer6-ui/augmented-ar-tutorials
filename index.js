@@ -1,4 +1,4 @@
-// Hauptdatei für die Anwendung
+// Main file for the application
 
-console.log('Willkommen zu den Augmented Reality Tutorials!');
-// Fügen Sie hier Ihre AR-Logik hinzu
+console.log('Welcome to the Augmented Reality Tutorials!');
+// Add your AR logic here
