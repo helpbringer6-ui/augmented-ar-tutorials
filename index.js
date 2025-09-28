@@ -2,3 +2,4 @@
 
 console.log('Welcome to the Augmented Reality Tutorials! Get ready to explore!');
 // Add your AR logic here. Implement initialization and event listeners.
+// Future improvements: Enhance user interaction and add feedback mechanisms.
